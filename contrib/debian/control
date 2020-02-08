@@ -26,8 +26,8 @@ Build-Depends: debhelper,
  libzmq3-dev
 Standards-Version: 3.9.2
 Homepage: https://www.torus.net/
-Vcs-Git: git://github.com/torus/torus.git
-Vcs-Browser: https://github.com/torus/torus
+Vcs-Git: git://github.com/torus-folk/torus.git
+Vcs-Browser: https://github.com/torus-folk/torus
 
 Package: torusd
 Architecture: any

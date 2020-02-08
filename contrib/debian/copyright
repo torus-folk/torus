@@ -1,11 +1,11 @@
 Upstream-Name: Torus
 Upstream-Contact: Stichting Torus Foundation <foundation@torus.net>
-Source: https://github.com/torus/torus
+Source: https://github.com/torus-folk/torus
 
 Files: *
 Copyright: 2012-2019, Torus Developers
 License: Expat
-Comment: The Torus Developers encompasses the current developers listed on https://github.com/torus/torus,
+Comment: The Torus Developers encompasses the current developers listed on https://github.com/torus-folk/torus,
          as well as the numerous contributors to the project.
 
 Files: debian/*

@@ -503,7 +503,7 @@ std::string HelpMessage(HelpMessageMode mode)
 
 std::string LicenseInfo()
 {
-    const std::string URL_SOURCE_CODE = "<https://github.com/torus/torus>";
+    const std::string URL_SOURCE_CODE = "<https://github.com/torus-folk/torus>";
     const std::string URL_WEBSITE = "<https://torus.net/>";
 
     return CopyrightHolders(strprintf(_("Copyright (C) %i-%i"), 2012, COPYRIGHT_YEAR) + " ") + "\n" +

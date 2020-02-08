@@ -10,9 +10,9 @@ Torus Official Development Repo
 ### Torus Resources
 * Client and Source:
 [Client Binaries](https://torus.net/wallet.html),
-[Source Code](https://github.com/torus/torus)
+[Source Code](https://github.com/torus-folk/torus)
 * Documentation: [Torus Whitepaper](https://torus.net/resources.html#whitepaper),
-[Torus Wiki](https://github.com/torus/torus/wiki)
+[Torus Wiki](https://github.com/torus-folk/torus/wiki)
 * Help: 
 [Forum](https://talk.torus.net),
 [Intro & Important Links](https://talk.torus.net/t/what-is-torus-intro-important-links/2889)
