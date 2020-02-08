@@ -70,7 +70,6 @@ src/qt/bitcoin-qt.includes
 *.pyc
 *.o
 *.o-*
-*.patch
 .ppcoin
 .torus
 *.a
