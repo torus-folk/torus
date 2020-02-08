@@ -45,7 +45,7 @@ Build Torus Core
 
 1. Clone the torus source code and cd into `torus`
 
-        git clone https://github.com/torus/torus.git
+        git clone https://github.com/torus-folk/torus.git
         cd torus
 
 2.  Build torus-core:
